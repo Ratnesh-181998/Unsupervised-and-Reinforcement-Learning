@@ -13,3 +13,18 @@ Let the dataset be 𝗫 = {𝘅₁, 𝘅₂, …, 𝘅ₙ}, where each xᵢ ∈ 
 where g is an encoder and f is a decoder. Unsupervised learning thus enables machines to discover structure, compress information, and learn representations, forming the foundation for clustering, anomaly detection, and generative AI systems.
 
 ---
+
+# The role of Reinforcement Learning (RL)
+
+- [Reinforcement Learning ](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Reinforcement%20Learning%20(RL)%20is%20a%20type%20of%20machine%20Learning.pdf)
+  
+<img width="346" height="326" alt="image" src="https://github.com/user-attachments/assets/8acbd862-2c83-408e-b59b-0d01755974aa" />
+<img width="618" height="845" alt="image" src="https://github.com/user-attachments/assets/5daa222e-ddcb-41a5-8da9-551efe9c0f01" />
+<img width="505" height="563" alt="image" src="https://github.com/user-attachments/assets/bb2f1505-ab2b-4ed2-be39-f4a2a602c709" />
+<img width="493" height="430" alt="image" src="https://github.com/user-attachments/assets/dd1ab5e8-b849-46b1-bff7-7099ce5a7f8a" />
+<img width="493" height="506" alt="image" src="https://github.com/user-attachments/assets/44fc97cf-1da2-42d6-9d94-94e5434cfe40" />
+<img width="488" height="682" alt="image" src="https://github.com/user-attachments/assets/184b4c1c-0b4f-45a5-8947-2aa459c9cb69" />
+
+---
+
+
