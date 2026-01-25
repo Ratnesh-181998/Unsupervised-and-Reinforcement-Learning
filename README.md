@@ -61,3 +61,12 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 <img width="875" height="483" alt="image" src="https://github.com/user-attachments/assets/1a17665f-3ca7-4ea8-9f0a-7233900de0f0" />
 
 ---
+
+# 𝗔𝗻 𝗜𝗻-𝗗𝗲𝗽𝘁𝗵 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗼𝗳 𝗖𝗹𝘂𝘀𝘁𝗲𝗿𝗶𝗻𝗴
+
+## [𝗖𝗹𝘂𝘀𝘁𝗲𝗿𝗶𝗻𝗴-](https://github.com/Ratnesh-181998/Unsupervised-and-Reinforcement-Learning/blob/main/Clustering.pdf)
+
+<img width="543" height="774" alt="image" src="https://github.com/user-attachments/assets/eab359cf-856f-4029-a778-0aaa604c2b20" />
+
+---
+
