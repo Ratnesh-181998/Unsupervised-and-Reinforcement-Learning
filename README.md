@@ -69,6 +69,12 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 <img width="543" height="774" alt="image" src="https://github.com/user-attachments/assets/eab359cf-856f-4029-a778-0aaa604c2b20" />
 
 
+---
+
+# 🚀 Top 25 Machine Learning Architecture Questions (Every ML Engineer Should Know)
+
+<img width="505" height="707" alt="image" src="https://github.com/user-attachments/assets/a8baad26-65b6-4cfc-9497-b32f699ddca5" />
+
 
 ---
 
