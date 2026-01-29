@@ -75,6 +75,14 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 
 <img width="505" height="707" alt="image" src="https://github.com/user-attachments/assets/a8baad26-65b6-4cfc-9497-b32f699ddca5" />
 
+---
+
+# 𝗔𝗻 𝗜𝗻-𝗗𝗲𝗽𝘁𝗵 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗼𝗳 𝗔𝗴𝗴𝗹𝗼𝗺𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗖𝗹𝘂𝘀𝘁𝗲𝗿𝗶𝗻𝗴-
+
+#  [B𝗼𝘁𝘁𝗼𝗺-𝘂𝗽 𝗵𝗶𝗲𝗿𝗮𝗿𝗰𝗵𝗶𝗰𝗮𝗹 𝗰𝗹𝘂𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲](https://github.com/Ratnesh-181998/Unsupervised-and-Reinforcement-Learning/blob/main/Agglomerative%20Clustering%20A%20Comprehensive%20Guide.pdf)
+
+<img width="409" height="622" alt="image" src="https://github.com/user-attachments/assets/88d7e4ec-c610-4fff-a6ab-658ac2176e04" />
+
 
 ---
 
