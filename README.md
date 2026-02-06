@@ -86,6 +86,14 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 
 ---
 
+# 𝐇𝐞𝐫𝐞 𝐢𝐬 𝐡𝐨𝐰 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐭𝐞𝐚𝐦𝐬 𝐭𝐡𝐢𝐧𝐤 𝐚𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐟𝐨𝐮𝐫 𝐩𝐢𝐥𝐥𝐚𝐫𝐬.
+
+<img width="984" height="729" alt="image" src="https://github.com/user-attachments/assets/3c2db20e-11db-4698-8780-8aa234716eb3" />
+<img width="1160" height="1180" alt="image" src="https://github.com/user-attachments/assets/91393ad2-c51d-4663-87af-8a270f64d2e2" />
+
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
