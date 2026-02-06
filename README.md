@@ -95,7 +95,7 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 
 # Reinforced Attention Learning (RAL): Rethinking RL for Multimodal LLMs
 
-### [RL for Multimodal LLMs]()
+### [RL for Multimodal LLMs](https://github.com/Ratnesh-181998/Unsupervised-and-Reinforcement-Learning/blob/main/Reinforced%20Attention%20Learning%20(RAL)%20Rethinking%20RL%20for%20Multimodal%20LLMs.pdf)
 
 <img width="972" height="1266" alt="image" src="https://github.com/user-attachments/assets/800d59ca-0179-467c-80c5-cd14f84caa7d" />
 
