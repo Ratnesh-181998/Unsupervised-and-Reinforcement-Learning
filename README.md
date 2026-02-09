@@ -99,6 +99,12 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 
 <img width="972" height="1266" alt="image" src="https://github.com/user-attachments/assets/800d59ca-0179-467c-80c5-cd14f84caa7d" />
 
+---
+
+# 
+
+<img width="417" height="657" alt="image" src="https://github.com/user-attachments/assets/25d7b832-c25f-4b94-b9ea-e987dbbc13f0" />
+
 
 ---
 
