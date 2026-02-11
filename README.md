@@ -136,6 +136,12 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 
 ---
 
+# Introduction to Machine Learning 10-701, Spring 2023 Carnegie Mellon University
+
+- https://www.cs.cmu.edu/~aarti/Class/10701_Spring23/lecs.html
+
+---
+
 # 
 
 <img width="417" height="657" alt="image" src="https://github.com/user-attachments/assets/25d7b832-c25f-4b94-b9ea-e987dbbc13f0" />
