@@ -101,6 +101,14 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 
 ---
 
+# How Machine Learning Works: A Step-by-Step Breakdown
+
+<img width="1069" height="831" alt="image" src="https://github.com/user-attachments/assets/5e7199b2-8f4d-464d-951a-28caf41461d5" />
+<img width="1058" height="1144" alt="image" src="https://github.com/user-attachments/assets/d3f2d078-dbe5-4691-8677-6bedd93abebd" />
+
+
+---
+
 # 
 
 <img width="417" height="657" alt="image" src="https://github.com/user-attachments/assets/25d7b832-c25f-4b94-b9ea-e987dbbc13f0" />
