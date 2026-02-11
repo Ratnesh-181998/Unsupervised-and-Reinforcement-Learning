@@ -126,6 +126,13 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 <img width="1344" height="868" alt="image" src="https://github.com/user-attachments/assets/373315f1-f9ce-411c-89fc-3d2731738fcf" />
 <img width="1369" height="917" alt="image" src="https://github.com/user-attachments/assets/981726bc-0739-44ce-ae5c-23106aed5b15" />
 
+---
+
+# MIT's Hands-on Deep Learning 2024 by Rama Ramakrishnan
+
+- Lecture videos: https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/video_galleries/lecture-videos/
+
+- Lecture notes: https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/lists/lecture-notes/
 
 ---
 
