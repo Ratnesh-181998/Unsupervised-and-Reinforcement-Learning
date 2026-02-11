@@ -145,7 +145,7 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 # Mathematical Foundations of Machine Learning 
 
 - https://www.youtube.com/@mathTalent/playlists
-- [Mathematical Foundations of Machine Learning ]()
+- [Mathematical Foundations of Machine Learning ](https://github.com/Ratnesh-181998/Unsupervised-and-Reinforcement-Learning/blob/main/Mathematical%20Foundations%20of%20Machine%20Learning.pdf)
   
 <img width="1060" height="728" alt="image" src="https://github.com/user-attachments/assets/5acd23ba-86d3-4c1b-8e70-41895a7cf7ea" />
 
