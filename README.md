@@ -109,6 +109,26 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 
 ---
 
+# AI/ML Courses from Stanford (ALL FREE):
+
+- https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+
+- CS221   - Artificial Intelligence
+- CS229   - Machine Learning
+<img width="1358" height="889" alt="image" src="https://github.com/user-attachments/assets/722d80a6-505b-4134-ad12-7ab83b387a79" />
+
+- CS230   - Deep Learning
+<img width="1362" height="892" alt="image" src="https://github.com/user-attachments/assets/aa46a3a8-ec98-44e6-99c4-1dad0a357f41" />
+
+- CS234   - Reinforcement Learning
+- CS231N  - Deep Learning for CV
+- CS336    - LLM from Scratch
+<img width="1344" height="868" alt="image" src="https://github.com/user-attachments/assets/373315f1-f9ce-411c-89fc-3d2731738fcf" />
+<img width="1369" height="917" alt="image" src="https://github.com/user-attachments/assets/981726bc-0739-44ce-ae5c-23106aed5b15" />
+
+
+---
+
 # 
 
 <img width="417" height="657" alt="image" src="https://github.com/user-attachments/assets/25d7b832-c25f-4b94-b9ea-e987dbbc13f0" />
