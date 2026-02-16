@@ -149,18 +149,25 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
   
 <img width="1060" height="728" alt="image" src="https://github.com/user-attachments/assets/5acd23ba-86d3-4c1b-8e70-41895a7cf7ea" />
 
+---
 
 # Machine Learning For Absolute Beginners
 
-- [beginner friendly Machine Learning book](https://github.com/Ratnesh-181998/Unsupervised-and-Reinforcement-Learning/blob/main/Machine%20Learning%20For%20Absolute%20Beginners.pdf)
+- [Beginner friendly Machine Learning book](https://github.com/Ratnesh-181998/Unsupervised-and-Reinforcement-Learning/blob/main/Machine%20Learning%20For%20Absolute%20Beginners.pdf)
 
 <img width="906" height="501" alt="image" src="https://github.com/user-attachments/assets/5031efca-ee3a-4943-b2b8-ec095d6dc2aa" />
 
+---
 
+# 🚀 Loss Functions in Machine Learning
+
+<img width="980" height="1162" alt="image" src="https://github.com/user-attachments/assets/ceec6cd5-2312-4881-8800-6d5e8c196d72" />
+
+<img width="906" height="1169" alt="image" src="https://github.com/user-attachments/assets/a4520eb6-1053-48d7-ad47-052d291a207d" />
 
 ---
 
-# 
+
 
 <img width="417" height="657" alt="image" src="https://github.com/user-attachments/assets/25d7b832-c25f-4b94-b9ea-e987dbbc13f0" />
 
