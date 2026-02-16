@@ -152,7 +152,7 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 
 # Machine Learning For Absolute Beginners
 
-- [beginner friendly Machine Learning book]()
+- [beginner friendly Machine Learning book](https://github.com/Ratnesh-181998/Unsupervised-and-Reinforcement-Learning/blob/main/Machine%20Learning%20For%20Absolute%20Beginners.pdf)
 
 <img width="906" height="501" alt="image" src="https://github.com/user-attachments/assets/5031efca-ee3a-4943-b2b8-ec095d6dc2aa" />
 
