@@ -150,6 +150,14 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 <img width="1060" height="728" alt="image" src="https://github.com/user-attachments/assets/5acd23ba-86d3-4c1b-8e70-41895a7cf7ea" />
 
 
+# Machine Learning For Absolute Beginners
+
+- [beginner friendly Machine Learning book]()
+
+<img width="906" height="501" alt="image" src="https://github.com/user-attachments/assets/5031efca-ee3a-4943-b2b8-ec095d6dc2aa" />
+
+
+
 ---
 
 # 
