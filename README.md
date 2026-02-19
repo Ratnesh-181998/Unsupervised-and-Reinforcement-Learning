@@ -174,6 +174,16 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 
 ---
 
+# Deep learning lectures.
+# [Playlist](https://www.youtube.com/playlist?list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9)
+
+<img width="948" height="1153" alt="image" src="https://github.com/user-attachments/assets/81b38404-297a-4c80-b26f-08ce74ebf667" />
+<img width="1055" height="1222" alt="image" src="https://github.com/user-attachments/assets/31040d18-45c2-4f29-8da6-b9b4add26b8c" />
+<img width="915" height="785" alt="image" src="https://github.com/user-attachments/assets/e43b4643-d97f-4d09-863b-402eecd3eba3" />
+
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
