@@ -184,6 +184,23 @@ where g is an encoder and f is a decoder. Unsupervised learning thus enables mac
 
 ---
 
+# Applied Machine Learning – CS 5785 at Cornell Tech 
+
+<img width="809" height="481" alt="image" src="https://github.com/user-attachments/assets/fcaa3666-339f-466b-91e0-db4cbebcf93c" />
+<img width="463" height="823" alt="image" src="https://github.com/user-attachments/assets/ce54283d-d975-4459-8a0d-3a39a46d3735" />
+<img width="446" height="834" alt="image" src="https://github.com/user-attachments/assets/37edb987-e126-4d14-905e-7ee67823db26" />
+
+
+Course Website: https://kuleshov-group.github.io/aml-website/
+
+YouTube Playlist: https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
+
+Lecture Notes: https://kuleshov-group.github.io/aml-book/intro.html
+
+GitHub Link: https://github.com/kuleshov/cornell-cs5785-2020-applied-ml
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
