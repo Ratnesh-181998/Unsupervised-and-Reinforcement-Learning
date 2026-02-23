@@ -213,14 +213,6 @@ GitHub Link: https://github.com/kuleshov/cornell-cs5785-2020-applied-ml
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
-## 📜 **License**
-
-![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-
-**Licensed under the MIT License** - Feel free to fork and build upon this innovation! 🚀
-
----
-
 # 📞 **CONTACT & NETWORKING** 📞
 
 ## 💼 Professional Networks
