@@ -202,7 +202,7 @@ GitHub Link: https://github.com/kuleshov/cornell-cs5785-2020-applied-ml
 
 ---
 
-# [Understanding KNN (K-Nearest Neighbors) Classifier in Machine Learning]()
+# [Understanding KNN (K-Nearest Neighbors) Classifier in Machine Learning](https://github.com/Ratnesh-181998/Unsupervised-and-Reinforcement-Learning/blob/main/KNN%20(K-Nearest%20Neighbors)%20Classifier%20in%20Machine%20Learning.pdf)
 
 <img width="1014" height="1053" alt="image" src="https://github.com/user-attachments/assets/a38cff59-b576-4483-ab48-0a2795dbaa46" />
 
