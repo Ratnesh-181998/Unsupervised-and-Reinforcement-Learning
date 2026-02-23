@@ -209,6 +209,15 @@ GitHub Link: https://github.com/kuleshov/cornell-cs5785-2020-applied-ml
 
 ---
 
+# XGBoost Regressor
+
+<img width="737" height="1183" alt="image" src="https://github.com/user-attachments/assets/774a458b-00ca-4054-a81b-0c1ae0bad75f" />
+<img width="747" height="703" alt="image" src="https://github.com/user-attachments/assets/9521a3db-4cbf-482e-9a92-92712994ae0a" />
+<img width="812" height="1166" alt="image" src="https://github.com/user-attachments/assets/4d9fe0c5-662d-4fd7-8af3-cf9add14cdef" />
+
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
