@@ -209,6 +209,31 @@ GitHub Link: https://github.com/kuleshov/cornell-cs5785-2020-applied-ml
 
 ---
 
+# Mastering RLHF for LLMs: A Practical Course Breakdown
+
+- Reinforcement Learning from Human Feedback (RLHF) is a critical component in aligning large language models with real-world expectations. The RLHF Book Course by Nathan Lambert provides a structured and practical walkthrough of the complete RLHF pipeline from theory to implementation.
+
+- This course complements the material from [rlhfbook.com](https://rlhfbook.com/) and is designed for practitioners working on post-training, alignment and optimization of LLMs.
+
+- It covers :
+
+- 1. RLHF and Post-training Overview
+- 2. RLHF Foundations, IFT, Reward Modeling, Rejection Sampling
+- 3. Understanding Policy Gradient Algorithms for RL on LLMs
+- 4. Implementing RL Algorithms for LLMs 
+
+- [Youtube Link ](https://www.youtube.com/playlist?list=PLL1tdVxB1CpVpEtMHxwuR4uI4Lxjw00_y)
+
+- [Notes Link ]( https://rlhfbook.com/course)
+
+
+<img width="700" height="1214" alt="1787198043999" src="https://github.com/user-attachments/assets/4dc69a86-4497-4187-8cdb-6eb9f9df941a" />
+
+<img width="720" height="1278" alt="1787198044451" src="https://github.com/user-attachments/assets/407e624b-f50b-4cd7-94b8-7af24e59e24c" />
+
+
+---
+
 # XGBoost Regressor
 
 <img width="737" height="1183" alt="image" src="https://github.com/user-attachments/assets/774a458b-00ca-4054-a81b-0c1ae0bad75f" />
